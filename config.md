@@ -3,8 +3,11 @@
  - Initial Scene: scene-1
 
 # Variables
- - Resources: 100
- - Engagement: 100
- - Output: 100
- - Total: 100
+- bringoutthebest-engage-healthywork
+- bringoutthebest-engage-constructive
+- bringoutthebest-performance-collab
+- bringoutthebest-developteam-others
+- rolemodel-decisions-competition
+- cleanleadership-compliance-training
+- cleanleadership-simplify-strivesright
 
