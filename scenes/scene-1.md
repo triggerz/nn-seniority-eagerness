@@ -1,6 +1,6 @@
 # Config
  - Title: Seniority vs. eagerness 
- - Image: http://res.cloudinary.com/triggerz/image/upload/v1513594352/Billede1_ls6myi.png
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521496076/stock-photo-file-633088085.jpg
 
 # Description
 
