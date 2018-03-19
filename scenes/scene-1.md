@@ -1,6 +1,6 @@
 # Config
  - Title: Seniority vs. eagerness 
- - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521496076/stock-photo-file-633088085.jpg
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521496045/stock-photo-close-up-of-human-hand-holding-megaphone-238658914.jpg
 
 # Description
 
