@@ -10,10 +10,9 @@ There are occasional disputes about being allocated to the most interesting (and
 You will give the next task to one of your senior employees.
 
 # Variables
- - Resources: -1
- - Engagement: -1
- - Output: +3
- - Total: round(((Engagement * Output) / 100) - (100 - Resources))
+- bringoutthebest-engage-healthywork: 0.2
+- bringoutthebest-performance-collab: 0.3
+- cleanleadership-simplify-strivesright: 0.8
 
 # Feedback
 This is the easy choice - giving the tasks to an employee with high seniority. You'll get the job done - in your preferred manner. However, the younger and less experienced employees also need to be trained to handle these tasks. This is what motivates the younger employees.
@@ -25,10 +24,12 @@ X
 You give the task to one of your senior employees and at the following team meeting  use the opportunity to talk about the behaviour amongst your senior employees. You emphasize their responsibility to help and develop the more inexperienced colleagues. 
 
 # Variables
- - Resources: -1
- - Engagement: -2
- - Output: +3
- - Total: round(((Engagement * Output) / 100) - (100 - Resources))
+- bringoutthebest-engage-healthywork: 0.6
+- bringoutthebest-engage-constructive: 0.7
+- bringoutthebest-performance-collab: 0.6
+- rolemodel-decisions-competition: 0.7
+- cleanleadership-compliance-training: 0.5
+- cleanleadership-simplify-strivesright: 0.7
 
 # Feedback
 You're aware this is an issue in your team that needs to be addressed. Talking to your senior employees might be a way to solve this. Maybe you could even motivate them to help train the younger employees?
@@ -40,10 +41,9 @@ X
 You give the task to a younger employee and observe with interest how the senior employees react.      
 
 # Variables
- - Resources: -3
- - Engagement: -3
- - Output: +3
- - Total: round(((Engagement * Output) / 100) - (100 - Resources))
+- bringoutthebest-engage-healthywork: 0.5
+- bringoutthebest-developteam-others: 0.8
+- bringoutthebest-performance-collab: 0.5
 
 # Feedback
 Giving the younger employees the possibility to develop by allocating an interesting task to them is a good idea. Even though you are busy and the workload is heavy, we must take the time to develop our employees. This makes the team less vulnerable in the long run, since all employees will be trained to perform the interesting and more complicated tasks. 
